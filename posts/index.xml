@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>https://blessingIX.github.io/posts/</link>
+    <link>https://blessingix.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 12:21:35 +0800</lastBuildDate><atom:link href="https://blessingIX.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 13 Jun 2021 12:21:35 +0800</lastBuildDate><atom:link href="https://blessingix.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo Guide</title>
-      <link>https://blessingIX.github.io/posts/hugo-guide/</link>
+      <link>https://blessingix.github.io/posts/hugo-guide/</link>
       <pubDate>Sun, 13 Jun 2021 12:21:35 +0800</pubDate>
       
-      <guid>https://blessingIX.github.io/posts/hugo-guide/</guid>
+      <guid>https://blessingix.github.io/posts/hugo-guide/</guid>
       <description>Hugo静态博客搭建 安装hugo url：https://github.com/gohugoio/hugo/releases
 下载安装包：https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Windows-64bit.zip
 新建站点 hugo new site &amp;lt;site name&amp;gt; 下载主题 主题地址：https://themes.gohugo.io/

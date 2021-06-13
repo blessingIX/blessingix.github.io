@@ -2,31 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://blessingIX.github.io/</link>
+    <link>http://example.org/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 13 Jun 2021 12:21:35 +0800</lastBuildDate><atom:link href="https://blessingIX.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Hugo Guide</title>
-      <link>https://blessingIX.github.io/posts/hugo-guide/</link>
-      <pubDate>Sun, 13 Jun 2021 12:21:35 +0800</pubDate>
-      
-      <guid>https://blessingIX.github.io/posts/hugo-guide/</guid>
-      <description>Hugo静态博客搭建 安装hugo url：https://github.com/gohugoio/hugo/releases
-下载安装包：https://github.com/gohugoio/hugo/releases/download/v0.83.1/hugo_0.83.1_Windows-64bit.zip
-新建站点 hugo new site &amp;lt;site name&amp;gt; 下载主题 主题地址：https://themes.gohugo.io/
-terminal主题为例： git clone https://github.com/panr/hugo-theme-terminal.git themes/terminal Github加速源 香港：hub.fastgit.org 使用加速源：
-git clone https://hub.fastgit.org/panr/hugo-theme-terminal.git themes/terminal 本地启动 hugo server -t &amp;lt;theme&amp;gt; --buildDrafts 部署到远端（Github）   GitHub上新建一个仓库
-仓库名：$github-username$.github.io 
- $github-username$: GitHub用户名
- 例如：
-以blessingIX为例，则仓库名为blessingIX.github.io
-  关联远端地址
-hugo --theme=$theme$ --baseUrl=&amp;#34;https://$github-username$.github.io/&amp;#34; --buildDrafts  $theme$: 主题名称
-$github-username$: GitHub用户名
-    </description>
-    </item>
-    
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
